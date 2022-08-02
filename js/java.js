@@ -222,7 +222,7 @@ class Producto {
     }
    }
 
-   //Declaramos un array de productos para almacenar objetos
+   //Declaramos un array de productos para almacenar objetos, con su precio
    const productos = [];
    productos.push(new Producto("Ohm", "1255"));
    productos.push(new Producto("Remera", "700"));
